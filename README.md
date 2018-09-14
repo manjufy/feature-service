@@ -1,15 +1,22 @@
-# feature-service
+# Feature Service aka Feature Toggles
+
 Feature Toggles aka Feature Flags aka Feature Service
+
+### Synonyms 
+
+- Toggles
+- Foggles
+- Flippers
+- Switches
+- Flags
 
 # Inspiration
 
 # Overiew
 
-### Overview
+# Solution: What problem Feature service try to solve
 
-### Solution: What problem Feature service try to solve
-
-## Benefits
+# Benefits
 
 - First-class engineering and development approach
 - Smaller, better, faster and less risk
