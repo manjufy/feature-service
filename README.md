@@ -14,7 +14,7 @@ Feature Toggles aka Feature Flags aka Feature Service
 
 # Overiew
 
-# Solution: What problem Feature service try to solve
+## Solution: What kind of problems Feature service try to solve
 
 # Benefits
 
